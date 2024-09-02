@@ -1,6 +1,8 @@
 # ncappc
 NCA Calculations and Population Model Diagnosis Use ncappc With (In) R Software
 
+https://www.youtube.com/watch?v=y83xpn2ehU0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
